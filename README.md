@@ -19,9 +19,10 @@ Herhangi bir cihazdan (telefon, tablet, bilgisayar) tarayıcı aracılığıyla 
 
 ## Kurulum (Python gerektirmez)
 
-Tailscale Önerilir :3
+Tailscale Kullanımı ŞİDDETLE Önerilir :3
 
 Hazır binary'yi [Releases](../../releases) sayfasından indirin.
+Not:Kontrol ettim çalışmıyor releases aptal ben :P
 <details>
 <summary>:3</summary>
 Bence direk zip indir garantilemek iyidir okiy dokiy :3
