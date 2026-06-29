@@ -17,7 +17,7 @@ Herhangi bir cihazdan (telefon, tablet, bilgisayar) tarayıcı aracılığıyla 
 
 ---
 
-## Kurulum (Python gerektirmez)
+## Kurulum
 
 Tailscale Kullanımı ŞİDDETLE Önerilir :3
 
