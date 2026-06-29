@@ -20,6 +20,10 @@ Herhangi bir cihazdan (telefon, tablet, bilgisayar) tarayıcı aracılığıyla 
 ## Kurulum (Python gerektirmez)
 
 Hazır binary'yi [Releases](../../releases) sayfasından indirin.
+<details>
+<summary>:3</summary>
+Bence direk zip indir garantilemek iyidir okiy dokiy :3
+</details>
 
 ### Linux
 
